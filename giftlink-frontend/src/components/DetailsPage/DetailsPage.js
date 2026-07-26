@@ -47,7 +47,6 @@ function DetailsPage() {
         navigate(-1);
     };
 
-    //The comments have been hardcoded for this project.
     const comments = [
         {
             author: "John Doe",
